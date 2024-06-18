@@ -1,7 +1,7 @@
 # Nightmare in the Forest - A BTA horror map
- Minecraft Adventure Map for BTA
+ Minecraft Adventure Map for BTA about exploring your own nightmare.
 
-![Cabin Internal 1](https://github.com/Pasithea0/Nightmare-in-the-Forest/blob/main/Screenshots/Screenshot%20Cabin%20Internal%201.png)
+
 
 ## How to play
 
@@ -21,6 +21,7 @@ It comes pre-installed with all the assets you need and BTA!
 3. Drag it into your worlds folder
 4. Unzip and play!
 
+![Cabin Internal 1](https://github.com/Pasithea0/Nightmare-in-the-Forest/blob/main/Screenshots/Screenshot%20Cabin%20Internal%201.png)
 ![Cabin External](https://github.com/Pasithea0/Nightmare-in-the-Forest/blob/main/Screenshots/Screenshot%20Cabin%20External.png)
 ![Cabin Internal 2](https://github.com/Pasithea0/Nightmare-in-the-Forest/blob/main/Screenshots/Screenshot%20Cabin%20Internal%202.png)
 ![Gas Station External 1](https://github.com/Pasithea0/Nightmare-in-the-Forest/blob/main/Screenshots/Screenshot%20Gas%20Station%20External%201.png)
